@@ -1,5 +1,5 @@
 {
-  "name": "sloth-stars/SlothStars",
+  "name": "sloth-stars/slothstars",
   "description": "Sloth-Stars base library for building WordPress Themes & Plugins.",
   "homepage": "http://github.com/sloth-stars/SlothStars",
   "version": "0.1.0",
@@ -8,8 +8,7 @@
   "authors": [
     {
       "name": "franklin",
-      "email": "franklin@sloth-stars.com",
-      "url": "http://wwww.sloth-stars.com/"
+      "email": "franklin@sloth-stars.com"
     }
   ],
   "require": {
