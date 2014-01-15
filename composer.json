@@ -2,7 +2,7 @@
   "name": "sloth-stars/slothstars",
   "description": "Sloth-Stars base library for building WordPress Themes & Plugins.",
   "homepage": "http://github.com/sloth-stars/SlothStars",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "type": "library",
   "license": "MIT",
   "authors": [
